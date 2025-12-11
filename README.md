@@ -176,12 +176,6 @@ Email� Acknowledgments
 - [Material Design Guidelines](https://material.io/design)
 - [Dart Style Guide](https://dart.dev/guides/language/effective-dart/style)
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/flutter-todo-app?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/flutter-todo-app?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/flutter-todo-app?style=social)
-
 ---
 
 **If you found this project helpful, please give it a ⭐️!**
