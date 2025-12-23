@@ -2,7 +2,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 **A beautiful and functional todo application built with Flutter featuring stunning gradient UI and smooth animations.**
 
@@ -24,7 +23,7 @@
 
 | Home Screen | Add Todo | Edit Todo |
 |------------|----------|-----------|
-| ![Homscreenshotsots/home.png) | !   (screenshots/add.png) | !Beforereenshots/edit.png) |
+| ![homepage.jpg) | !   (screenshots/add.png) | !Beforereenshots/edit.png) |
 
 ## 🚀 Getting Started
 
