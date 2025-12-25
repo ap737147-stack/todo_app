@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../widgets/Todo_item.dart';
+import '../widgets/todo_item.dart';
 import '../models/Todo.dart';
 
 class TodoScreen extends StatefulWidget {
@@ -33,7 +33,7 @@ class _TodoScreenState extends State<TodoScreen> {
     });
   }
 
-  void ToggleTodo(Todo todo) {
+  void toggleTodo(Todo todo) {
     setState(() {
       todo.isDone = !todo.isDone;
     });
@@ -72,7 +72,7 @@ class _TodoScreenState extends State<TodoScreen> {
     );
   }
 
-  void DeleteTodoItem(String id) {
+  void deleteTodoItem(String id) {
     setState(() {
       todoList.removeWhere((item) => item.id == id);
       runSearch(controller.text);
@@ -224,9 +224,9 @@ class _TodoScreenState extends State<TodoScreen> {
                           itemBuilder: (context, index) {
                             return TodoItem(
                               todo: filteredList[index],
-                              onToggle: ToggleTodo,
+                              onToggle: toggleTodo,
                               onEdit: editTodo,
-                              onDelete: DeleteTodoItem,
+                              onDelete: deleteTodoItem,
                             );
                           },
                         ),

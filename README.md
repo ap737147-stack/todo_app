@@ -21,10 +21,9 @@
 
 ## 📸 Screenshots
 
-| Home | City Search | Forecast |
-|------|------------|----------|
+| Home | Search | Edit |
+|------|--------|------|
 | ![](screenshots/homepage.jpeg) | ![](screenshots/search1.jpeg) | ![](screenshots/edit.jpeg) |
-
 
 ## 🚀 Getting Started
 
