@@ -19,15 +19,12 @@
 - ⚡ **Fast & Smooth** - Optimized performance with clean architecture
 - 🏗️ **Clean Code** - Separated business logic from UI components
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-| Home Screen | Add Todo | Edit Todo |
-|------------|----------|-----------|
-<<<<<<< HEAD
-| ![screenshots/homepage.jpeg) | !   (screenshots/search1.jpeg) | !screenshots/edit.jpeg) |
-=======
-| ![homepage.jpg) | !   (screenshots/add.png) | !Beforereenshots/edit.png) |
->>>>>>> 3a3dc11c78ef38cc5bd3e4ed862165bdd09ce13b
+| Home | City Search | Forecast |
+|------|------------|----------|
+| ![](screenshots/homepage.jpeg) | ![](screenshots/search1.jpeg) | ![](screenshots/edit.jpeg) |
+
 
 ## 🚀 Getting Started
 
