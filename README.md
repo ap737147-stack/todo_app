@@ -23,7 +23,11 @@
 
 | Home Screen | Add Todo | Edit Todo |
 |------------|----------|-----------|
+<<<<<<< HEAD
 | ![screenshots/homepage.jpeg) | !   (screenshots/search1.jpeg) | !screenshots/edit.jpeg) |
+=======
+| ![homepage.jpg) | !   (screenshots/add.png) | !Beforereenshots/edit.png) |
+>>>>>>> 3a3dc11c78ef38cc5bd3e4ed862165bdd09ce13b
 
 ## 🚀 Getting Started
 
